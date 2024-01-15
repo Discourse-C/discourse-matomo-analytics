@@ -1,6 +1,6 @@
 {
   "name": "iSharkFly Matomo Analytics",
   "about_url": "https://www.isharkfly.com/t/discourse-matomo/51",
-  "license_url": "https://github.com/ossez-com/discourse-matomo-analytics/blob/master/LICENSE",
+  "license_url": "https://github.com/Discourse-C/discourse-matomo-analytics/blob/master/LICENSE",
   "component": true
 }
